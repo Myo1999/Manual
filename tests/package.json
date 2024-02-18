@@ -1,0 +1,18 @@
+{
+  "name": "csgoempire-tests",
+  "version": "1.0.0",
+  "description": "Playwright tests for CSGOEmpire Roulette",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.41.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.41.2"
+  }
+}
